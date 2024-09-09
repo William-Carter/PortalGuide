@@ -1,4 +1,7 @@
-# The Ultimate Portal Speedrun Guide
+---
+layout: default
+title: My Markdown File
+---
 
 Welcome! This is an extensive guide to speedrunning Portal!
 Here you'll find everything you need on your speedrunning journey, from the basics of setting up the game, to the most advanced strategies a runner can learn.
